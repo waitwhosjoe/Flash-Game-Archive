@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>     
+    <div id="gameParent" style="text-align: center;">
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" id="https://waitwhosjoe.github.io/Flash-Game-Archive/Files/Flash/BindingOfIsaac.swf" width="1000" height="572"><param name="movie" value="https://waitwhosjoe.github.io/Flash-Game-Archive/Files/Flash/BindingOfIsaac.swf"><param name="quality" value="high"><param name="play" value="true"><param name="loop" value="true"><param name="wmode" value="window"><param name="scale" value="showall"><param name="menu" value="true"><param name="devicefont" value="false"><param name="salign" value=""><param name="allowScriptAccess" value="false"></object>	
+        </div>
+</html>
